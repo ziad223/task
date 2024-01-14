@@ -320,7 +320,8 @@ hr{
           display: flex;
           align-items: center;
           justify-content: center;
-          gap: 10px;
+          flex-direction: column;
+          gap: 20px;
       }
       .footer-content a{
           font-size: 20px;
