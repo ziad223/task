@@ -212,6 +212,9 @@ background-color: #0b1a2d;
 color: #fff;
 padding: 10px;
 }
+hr{
+    opacity: 0.5;
+}
 
 @media screen and (max-width : 480px){
       /* header */
